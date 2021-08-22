@@ -1,1 +1,2 @@
 # wifi-cracker
+Apt update
